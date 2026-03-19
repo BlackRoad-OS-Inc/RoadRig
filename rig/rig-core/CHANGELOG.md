@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.33.1](https://github.com/0xPlaygrounds/rig/compare/rig-core-v0.33.0...rig-core-v0.33.1) - 2026-03-19
+
+### Added
+
+- add grok xAI TTS ([#1530](https://github.com/0xPlaygrounds/rig/pull/1530))
+
+### Fixed
+
+- skip serializing encrypted_content when None ([#1534](https://github.com/0xPlaygrounds/rig/pull/1534))
+
 ## [0.33.0](https://github.com/0xPlaygrounds/rig/compare/rig-core-v0.32.0...rig-core-v0.33.0) - 2026-03-17
 
 ### Added
